@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ManeKarthikeya&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KARTHIKEYA1811&theme=dark&hide_border=false" />
 </p>
 
 
